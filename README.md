@@ -1,1 +1,14 @@
-# ap-csp
+# AP CSP Lessons (C4 Patino)
+
+My name is C4 Patino, and I am a second-year coding student at Collegiate School of Medicine and Bioscience. I am enrolled in AP CSP, where we are learning the fundamentals of programming with Scratch and Python. I also have basic experience with languages like Java, PHP, HTML, JS, CSS, SQL, C, and C++ outside of school. My favorite programming language would have to be JavaScript because I like how dynamic the libraries are. My interests would include playing MMORPGS, watching animes, reading, swimming, skiing, and mountain biking. This is a compilation of all of my work from AP CSP.
+
+Unit 1: Representing Digital Data
+| Date | Title/Link | Description |
+|--- |--- |--- |
+| 9/22 | [Name in Binary](https://1drv.ms/p/s!AvlSl4tAjTKtvIlFa2MrB5ttOPKIbQ?e=kAoXyC) | In this project, we converted our name from characters (“C4”) to ASCII values (like 65), and then converted the ASCII values to binary values. I learned more about data conversions in this project. |
+
+Programming Projects
+| Date | Title/Link | Description |
+|--- |--- |--- |
+| 9/28 | [Recommendation Program (Scratch)](https://scratch.mit.edu/projects/574225311) | In this project, we wrote code to make a recommendation to a user based on their responses to questions. I chose to do mine based on video game recommendations, because I play a lot of video games. |
+| 9/28 | [Recommendation Program (Python)](https://github.com/C4theBomb/ap-csp/blob/main/src/recommendGame.py) | In this project, we wrote code to make a recommendation to a user based on their responses to questions. I chose to do mine based on video game recommendations, because I play a lot of video games. |
